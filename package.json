@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "xianniu-tools": "^1.0.11"
+    "axios": "^0.21.1"
   }
 }
